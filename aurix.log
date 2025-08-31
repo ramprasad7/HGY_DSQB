@@ -1,0 +1,48 @@
+2025-08-30 12:32:11,814 - aurix domain - DEBUG - 
+
+e
+
+
+Info: Select SOC to exit Deep Sleep
+1)SOC1
+2) SOC2
+1
+
+
+Info: poff complete pin state:0
+Info: VIP<->SOC1 SAIL UART interface init PASSED
+Info: VIP<->SOC1 MD UART interface init PASSED
+Info: Exiting Deep Sleep SOC1
+Info: md_sail_pon_sequence called for platforms Domain:
+
+Info: Attempt # 0 < Retry Count 0
+Info: Cold Boot or Equivalent: Calling soc_pon_sequence (MD and SAIL will be powered up) 
+
+
+
+Info: SOC1 PSAIL Err Transitioned LOW time:1994649ms
+Info: SOC1 PSAIL Err Tran
+2025-08-30 12:33:22,733 - aurix domain - DEBUG - 
+
+e
+
+
+Info: Select SOC to exit Deep Sleep
+1)SOC1
+2) SOC2
+1
+
+
+Info: poff complete pin state:0
+Info: VIP<->SOC1 SAIL UART interface init PASSED
+Info: VIP<->SOC1 MD UART interface init PASSED
+Info: Exiting Deep Sleep SOC1
+Info: md_sail_pon_sequence called for platforms Domain:
+
+Info: Attempt # 0 < Retry Count 0
+Info: Cold Boot or Equivalent: Calling soc_pon_sequence (MD and SAIL will be powered up) 
+
+
+
+Info: SOC1 PSAIL Err Transitioned LOW time:2065568ms
+Info: SOC1 PSAIL Err Tran
